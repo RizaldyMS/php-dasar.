@@ -1,0 +1,16 @@
+ table {
+            width: 300px;
+            border-collapse: collapse;
+            margin: 20px;
+        }
+        table, th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+        td {
+            width: 10%;
+        }
+        th {
+            width: 2%;
+        }
